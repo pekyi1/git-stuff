@@ -1,1 +1,2 @@
 someone elses work
+added more work and a git ignore file
